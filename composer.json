@@ -1,0 +1,7 @@
+{
+    "name": "dfkimera/phpconf16-reactphp",
+    "require": {
+        "react/http": "^0.4.2",
+        "whatthejeff/fab": "^1.0"
+    }
+}
